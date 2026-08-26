@@ -4,6 +4,10 @@ Website institucional desenvolvido para a **BK Concept Detailing**, empresa de e
 
 O projeto foi criado com foco em apresentação dos serviços, valorização dos resultados da empresa e conversão de visitantes em clientes através do WhatsApp.
 
+<p align="center">
+  <img src="./public/bk.PNG" alt="VF Imóveis" width="100%" />
+</p>
+
 [Ver projeto online](https://bkesteticautomotiva.netlify.app/)
 
 ## Sobre o projeto
